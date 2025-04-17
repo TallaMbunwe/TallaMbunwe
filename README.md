@@ -3,17 +3,22 @@
 I’m a DevOps Engineer who’s passionate about automation, cloud infrastructure, and writing clean, reliable code that actually makes developers’ lives easier.
 
 I work mainly with Python and Microsoft Azure, building scalable solutions, designing robust CI/CD pipelines, and making sure apps run smoothly from dev to production. I’m also pretty comfortable in the container world—Docker, Kubernetes, Infrastructure as Code (IaC) using Terraform, and configuration management with Ansible. I specialize in building scalable, secure, and automated cloud environments that support modern development workflows and business needs.
-Some things I enjoy:
 
-    Automating everything (because why not?)
+🔧 My expertise spans:
 
-    Making infra-as-code actually readable
+    Infrastructure as Code (Terraform, ARM templates)
 
-    Debugging weird issues at 2 AM (okay, maybe “enjoy” is a stretch)
+    CI/CD using GitHub Actions, Azure DevOps, and Jenkins
 
-    Learning new tools and sharing what I learn
+    Azure services: App Services, AKS, Functions, Azure Monitor
 
-This space is where I showcase some of the projects I’ve worked on, tools I’ve built, and the occasional experiment that spiraled into a full-blown side project. Always up for collaborating, learning, or geeking out over new tech.
+    Containerization with Docker & orchestration via Kubernetes
+
+    Writing clean, reusable Python code for automation and tooling
+
+    Monitoring, logging, and improving system performance
+    
+This space is where I showcase some of the projects I’ve worked on, tools I’ve built. I thrive in collaborative environments and focus on building efficient, secure, and scalable systems. 
 
 Let’s build cool stuff. 🚀
 
