@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m a DevOps Engineer who’s passionate about automation, cloud infrastructure, and writing clean, reliable code that actually makes developers’ lives easier ✨ _special_ ✨.
+I’m a DevOps Engineer who’s passionate about automation, cloud infrastructure, and writing clean, reliable code that actually makes developers’ lives ✨ _easier_ ✨.
 
 I work mainly with Python and Microsoft Azure, building scalable solutions, designing robust CI/CD pipelines, and making sure apps run smoothly from dev to production. I’m also pretty comfortable in the container world—Docker, Kubernetes, Infrastructure as Code (IaC) using Terraform, and configuration management with Ansible. I specialize in building scalable, secure, and automated cloud environments that support modern development workflows and business needs.
 
