@@ -18,7 +18,7 @@ Hi, I’m Eric TALLA M., a passionate DevOps Engineer with a strong focus on aut
 
 📫 How to reach me: erictallambunwe@gmail.com | [LinkedIn][1] 
 
-[1]: <www.linkedin.com/in/eric-talla-mbunwe> "My LinkedIn Account"
+[1]: <[www.](https://linkedin.com/in/eric-talla-mbunwe> "My LinkedIn Account"
 
 <!--
 📫 How to reach me: erictallambunwe@gmail.com | [LinkedIn] : www.linkedin.com/in/eric-talla-mbunwe
