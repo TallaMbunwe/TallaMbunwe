@@ -16,14 +16,12 @@ Hi, I’m Eric TALLA M., a passionate DevOps Engineer with a strong focus on aut
 
     💬 I regularly contribute to open-source projects and write technical guides
 
-📫 How to reach me: erictallambunwe@gmail.com | [LinkedIn] : www.linkedin.com/in/eric-talla-mbunwe
-
-[Link][1] 
+📫 How to reach me: erictallambunwe@gmail.com | [LinkedIn][1] 
 
 [1]: <www.linkedin.com/in/eric-talla-mbunwe> "This text right here is fantastic because when you scroll over the link now it says everything that I wrote in this paragraph."
 
 <!--
-
+📫 How to reach me: erictallambunwe@gmail.com | [LinkedIn] : www.linkedin.com/in/eric-talla-mbunwe
 [Link][1] 
 [Another Link][2]
 ![Picture Me Link][3]
