@@ -19,6 +19,12 @@ Hi, I’m Eric TALLA M., a passionate DevOps Engineer with a strong focus on aut
 📫 How to reach me: erictallambunwe@gmail.com | [LinkedIn] : www.linkedin.com/in/eric-talla-mbunwe
 
 [Link][1] 
+
+[1]: <www.linkedin.com/in/eric-talla-mbunwe> "This text right here is fantastic because when you scroll over the link now it says everything that I wrote in this paragraph."
+
+<!--
+
+[Link][1] 
 [Another Link][2]
 ![Picture Me Link][3]
 <https://hey-look-im-a-link.link/>
@@ -28,6 +34,8 @@ Hi, I’m Eric TALLA M., a passionate DevOps Engineer with a strong focus on aut
 [1]: <https://somelink.domain/> "This text right here is fantastic because when you scroll over the link now it says everything that I wrote in this paragraph."
 [2]: <https://im-another-link.com/> "I'm another link after the first link"
 [3]: <!--https://aws-amazon-com/?nc2=h_lg--> "Stack Overflow Won't let me post a picture."
+
+-->
 <!--
 📫 How to reach me: erictallambunwe@gmail.com | LinkedIn [LinkedIn] : www.linkedin.com/in/eric-talla-mbunwe
 
