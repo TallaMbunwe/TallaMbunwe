@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I’m Eric TALLA M., a passionate DevOps Engineer with a strong focus on automation, CI/CD, cloud infrastructure, and scalable DevOps pipelines. I love solving complex deployment challenges, optimizing developer workflows, and building reliable systems from code to production. I'm a Microsoft Certified Azure Administrator (AZ-104) and passionate about building scalable, secure, and efficient DevOps solutions in the cloud.
+Hi, I’m Eric TALLA M., a passionate DevOps Engineer with a strong focus on automation, CI/CD, cloud infrastructure, and scalable DevOps pipelines. I love solving complex deployment challenges, optimizing developer workflows, and building reliable systems from code to production. I'm a Microsoft Certified Azure Administrator (AZ-104) and passionate about building and migrating scalable, secure, and efficient DevOps solutions in the cloud.
 
     ⚙️ Skilled in automating DevOps workflows using Python, Bash, and PowerShell
 
